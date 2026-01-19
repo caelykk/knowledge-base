@@ -1,5 +1,5 @@
-.obsidian/
+.obsidian
 .DS_Store
-__MACOSX/
-.makemd/*.*
+__MACOSX
+./.makemd
 .space
